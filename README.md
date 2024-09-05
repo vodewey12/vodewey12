@@ -19,3 +19,5 @@ Here are the top 5 places I would love to visit in the future:
 - CS 584 - Natural Language Processing
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vodewey12&repo=CS-584-Natural-Language-Processing)](https://github.com/vodewey12/CS-584-Natural-Language-Processing)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
