@@ -9,8 +9,6 @@ Here are the top 5 places I have visited:
 4. Osaka
 5. Tokyo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vodewey12&repo=CS-584-Natural-Language-Processing)](https://github.com/vodewey12/CS-584-Natural-Language-Processing)
-
 ##
 #### Some Stats!
 
